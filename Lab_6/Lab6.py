@@ -83,8 +83,8 @@ def main():
     # Создание графика в линейном масштабе
     plt.figure(figsize=(10, 6))
     
-    plt.plot(heights, recursive_times, 'b-o', label='Рекурсивная реализация', linewidth=2, markersize=8)
-    plt.plot(heights, iterative_times, 'r-s', label='Итеративная реализация', linewidth=2, markersize=8)
+    plt.plot(heights, recursive_times, 'b-', label='Рекурсивная реализация', linewidth=2, markersize=8)
+    plt.plot(heights, iterative_times, 'r-', label='Итеративная реализация', linewidth=2, markersize=8)
     
     plt.xlabel('Высота дерева', fontsize=12)
     plt.ylabel('Время построения (секунды)', fontsize=12)

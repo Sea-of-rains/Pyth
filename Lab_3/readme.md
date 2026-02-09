@@ -11,10 +11,10 @@ Root = 12; height = 4, left_leaf = root^3, right_leaf = (root*2)-1</li></ul></p>
 Замечание:
 Ветви дерева могут содержаться либо в словаре (как в примере выше), либо в списке</p>
 Код программы:</p>
-<img width="719" height="768" alt="image" src="https://github.com/user-attachments/assets/f1603138-3c02-4481-a474-f165302af173" />
-<img width="656" height="788" alt="image" src="https://github.com/user-attachments/assets/70f4f254-55e1-4ded-a690-b977e479d1c3" />
-<img width="707" height="792" alt="image" src="https://github.com/user-attachments/assets/32c881eb-a1d3-4b45-bf09-7c3f727ae40f" />
-<img width="616" height="514" alt="image" src="https://github.com/user-attachments/assets/9edf2a0d-01da-45a4-b842-1a328129b88c" /></p>
+<img width="600" height="768" alt="image" src="https://github.com/user-attachments/assets/f1603138-3c02-4481-a474-f165302af173" /></p>
+<img width="600" height="788" alt="image" src="https://github.com/user-attachments/assets/70f4f254-55e1-4ded-a690-b977e479d1c3" /></p>
+<img width="600" height="792" alt="image" src="https://github.com/user-attachments/assets/32c881eb-a1d3-4b45-bf09-7c3f727ae40f" /></p>
+<img width="600" height="514" alt="image" src="https://github.com/user-attachments/assets/9edf2a0d-01da-45a4-b842-1a328129b88c" /></p>
 Вывод:</p>
-<img width="978" height="360" alt="image" src="https://github.com/user-attachments/assets/607b7ac3-547c-4015-aad8-2796d9660610" />
-<img width="958" height="368" alt="image" src="https://github.com/user-attachments/assets/f0b5cc50-65b6-496d-82a4-ba6925b79283" />
+<img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/607b7ac3-547c-4015-aad8-2796d9660610" /></p>
+<img width="600" height="368" alt="image" src="https://github.com/user-attachments/assets/f0b5cc50-65b6-496d-82a4-ba6925b79283" />

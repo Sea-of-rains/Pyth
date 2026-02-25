@@ -9,7 +9,4 @@
 <li><a href="https://github.com/Sea-of-rains/Pyth/tree/main/Lab_5">Лабораторная работа №5</a></li></p>
 <li><a href="https://github.com/Sea-of-rains/Pyth/tree/main/Lab_6">Лабораторная работа №6</a></li></p>
 <li><a href="">Лабораторная работа №7</a></p>
-<li><a href="">Лабораторная работа №8</a></p>
-<li><a href="">Лабораторная работа №9</a></p>
-<li><a href="">Лабораторная работа №10</a></p>
 </ul>

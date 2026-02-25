@@ -8,5 +8,5 @@
 <li><a href="https://github.com/Sea-of-rains/Pyth/tree/main/Lab_4">Лабораторная работа №4</a></li></p>
 <li><a href="https://github.com/Sea-of-rains/Pyth/tree/main/Lab_5">Лабораторная работа №5</a></li></p>
 <li><a href="https://github.com/Sea-of-rains/Pyth/tree/main/Lab_6">Лабораторная работа №6</a></li></p>
-<li><a href="">Лабораторная работа №7</a></p>
+<li><a href="https://github.com/Sea-of-rains/Pyth/tree/main/Lab_7">Лабораторная работа №7</a></p>
 </ul>

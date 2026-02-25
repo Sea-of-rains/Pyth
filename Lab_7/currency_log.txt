@@ -1,0 +1,22 @@
+2026-02-25 20:48:32,621 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:48:33,365 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:49:44,561 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:49:44,561 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:49:45,387 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:49:45,387 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:53:33,472 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:53:33,472 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:53:33,472 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:53:34,192 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:53:34,192 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:53:34,192 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:58:15,893 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:58:15,893 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:58:15,893 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:58:15,893 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 20:58:16,622 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:58:16,622 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:58:16,622 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 20:58:16,622 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
+2026-02-25 21:03:15,487 - currency_file - INFO - Вызов get_currencies_file(['USD', 'EUR'])
+2026-02-25 21:03:16,238 - currency_file - INFO - get_currencies_file вернула {'USD': 76.4678, 'EUR': 90.3211}
